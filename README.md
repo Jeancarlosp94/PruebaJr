@@ -7,8 +7,6 @@ cada usuario (nombre, email, telefono) y los datos de la pelicula (pelicula, hor
 cantidad, precio, sala), la base de datos donde se almacenará esa información sera en
 pruebacm.
 
-En el gráfico anterior se detalla el esquema que se debe de seguir para cumplir con todos los
-puntos necesarios para el correcto desarrollo del sistema.
 - Si el precio total de la venta es mayor a $20 recibirá un descuento del 5% del
 total a pagar.
 - Se podrá eliminar o cancelar una entrada que el usuario ya no requiera.
