@@ -1,7 +1,10 @@
 # PruebaJr
 prueba para la empresa cartoManabi
 Desarrollar una app web con una interfaz intuitiva que ordene tanto por edad como por nombre los usuarios provenientes de la url https://jsonplaceholder.typicode.com/users
-
+Tecnologias utilizadas:
+-Javascript
+-html
+-CSS
 Hacer la parte de backend teniendo en consideracion los datos basicos a registrar por
 cada usuario (nombre, email, telefono) y los datos de la pelicula (pelicula, hora_inicio,
 cantidad, precio, sala), la base de datos donde se almacenará esa información sera en
