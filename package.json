@@ -6,6 +6,6 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^6.0.12"
+    "mongoose": "^6.11.2"
   }
 }
