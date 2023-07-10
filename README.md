@@ -4,8 +4,11 @@ Desarrollar una app web con una interfaz intuitiva que ordene tanto por edad com
 
 
 Tecnologias utilizadas:
+
 -Javascript
--html
+
+-HTML
+
 -CSS
 
 
