@@ -33,10 +33,6 @@ const movieSchema = new mongoose.Schema({
 // Definir el modelo para las películas
 const Movie = mongoose.model('Movie', movieSchema);
 
-
-// Definir el modelo para las películas
-const Movie = mongoose.model('Movie', movieSchema);
-
 const app = express();
 
 // Configurar middlewares
@@ -87,6 +83,6 @@ app.post('/peliculas', (req, res) => {
 });
 
 // Iniciar el servidor
-app.listen(3000, () => {
-    console.log('Servidor en ejecución en el puerto 3000');
+app.listen(4000, () => {
+    console.log('Servidor en ejecución en el puerto 4000');
 });
